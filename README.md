@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuongwill&show_icons=true&locale=en&layout=compact" alt="vuongwill" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vuongwill&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
