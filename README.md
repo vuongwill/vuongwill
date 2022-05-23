@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋, I'm William </h1>
+# Hi 👋, I'm William
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
